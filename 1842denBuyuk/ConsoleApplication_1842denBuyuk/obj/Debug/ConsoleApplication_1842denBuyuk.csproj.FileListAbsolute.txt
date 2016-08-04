@@ -1,0 +1,30 @@
+C:\Users\Berk\Documents\Visual Studio 2013\Projects\Tolga\ödevler\ödevler\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\bin\Debug\ConsoleApplication_1842denBuyuk.exe.config
+C:\Users\Berk\Documents\Visual Studio 2013\Projects\Tolga\ödevler\ödevler\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\obj\Debug\ConsoleApplication_1842denBuyuk.csprojResolveAssemblyReference.cache
+C:\Users\Berk\Documents\Visual Studio 2013\Projects\Tolga\ödevler\ödevler\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\bin\Debug\ConsoleApplication_1842denBuyuk.exe
+C:\Users\Berk\Documents\Visual Studio 2013\Projects\Tolga\ödevler\ödevler\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\bin\Debug\ConsoleApplication_1842denBuyuk.pdb
+C:\Users\Berk\Documents\Visual Studio 2013\Projects\Tolga\ödevler\ödevler\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\obj\Debug\ConsoleApplication_1842denBuyuk.exe
+C:\Users\Berk\Documents\Visual Studio 2013\Projects\Tolga\ödevler\ödevler\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\obj\Debug\ConsoleApplication_1842denBuyuk.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ÖDEVLER\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\bin\Debug\ConsoleApplication_1842denBuyuk.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ÖDEVLER\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\obj\Debug\ConsoleApplication_1842denBuyuk.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ÖDEVLER\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\obj\Debug\ConsoleApplication_1842denBuyuk.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ÖDEVLER\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\bin\Debug\ConsoleApplication_1842denBuyuk.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ÖDEVLER\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\bin\Debug\ConsoleApplication_1842denBuyuk.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ÖDEVLER\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\obj\Debug\ConsoleApplication_1842denBuyuk.csprojResolveAssemblyReference.cache
+D:\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\bin\Debug\ConsoleApplication_1842denBuyuk.exe.config
+D:\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\obj\Debug\ConsoleApplication_1842denBuyuk.exe
+D:\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\obj\Debug\ConsoleApplication_1842denBuyuk.pdb
+D:\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\bin\Debug\ConsoleApplication_1842denBuyuk.exe
+D:\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\bin\Debug\ConsoleApplication_1842denBuyuk.pdb
+D:\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\obj\Debug\ConsoleApplication_1842denBuyuk.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Ödev 17.2.16(yarım kaldı)\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\bin\Debug\ConsoleApplication_1842denBuyuk.exe.config
+C:\Users\Administrator\Desktop\Ödev 17.2.16(yarım kaldı)\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\obj\Debug\ConsoleApplication_1842denBuyuk.exe
+C:\Users\Administrator\Desktop\Ödev 17.2.16(yarım kaldı)\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\obj\Debug\ConsoleApplication_1842denBuyuk.pdb
+C:\Users\Administrator\Desktop\Ödev 17.2.16(yarım kaldı)\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\bin\Debug\ConsoleApplication_1842denBuyuk.exe
+C:\Users\Administrator\Desktop\Ödev 17.2.16(yarım kaldı)\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\bin\Debug\ConsoleApplication_1842denBuyuk.pdb
+C:\Users\Administrator\Desktop\Ödev 17.2.16(yarım kaldı)\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\obj\Debug\ConsoleApplication_1842denBuyuk.csprojResolveAssemblyReference.cache
+F:\Batuhan Yamaç - BEM\Ödev 17.2.16\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\bin\Debug\ConsoleApplication_1842denBuyuk.exe.config
+F:\Batuhan Yamaç - BEM\Ödev 17.2.16\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\obj\Debug\ConsoleApplication_1842denBuyuk.exe
+F:\Batuhan Yamaç - BEM\Ödev 17.2.16\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\obj\Debug\ConsoleApplication_1842denBuyuk.pdb
+F:\Batuhan Yamaç - BEM\Ödev 17.2.16\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\bin\Debug\ConsoleApplication_1842denBuyuk.exe
+F:\Batuhan Yamaç - BEM\Ödev 17.2.16\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\bin\Debug\ConsoleApplication_1842denBuyuk.pdb
+F:\Batuhan Yamaç - BEM\Ödev 17.2.16\ConsoleApplication_1842denBuyuk\ConsoleApplication_1842denBuyuk\obj\Debug\ConsoleApplication_1842denBuyuk.csprojResolveAssemblyReference.cache
